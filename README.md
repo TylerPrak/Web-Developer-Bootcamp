@@ -2,7 +2,7 @@
 I do all the Exercises, Code Alongs, Projects, and Problem Sets. Online bootcamp course: https://www.udemy.com/the-web-developer-bootcamp/
 
 Web Developer Bootcamp  
-Syllabus 
+Index 
 1. Course Basics
 2. Introduction to Front End
 3. Introduction to HTML
